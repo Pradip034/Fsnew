@@ -1,0 +1,3 @@
+C:/Users/Pradip Mandal/Desktop/Install/ok/freeswitch-custom-master/libs/libteletone/out/build/x64-Debug/CMakeFiles/teletone.dir
+C:/Users/Pradip Mandal/Desktop/Install/ok/freeswitch-custom-master/libs/libteletone/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Pradip Mandal/Desktop/Install/ok/freeswitch-custom-master/libs/libteletone/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+C:/Users/Pradip Mandal/Desktop/Install/ok/freeswitch-custom-master/libs/libyuv/out/build/x64-Debug/CMakeFiles/yuv.dir
+C:/Users/Pradip Mandal/Desktop/Install/ok/freeswitch-custom-master/libs/libyuv/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Pradip Mandal/Desktop/Install/ok/freeswitch-custom-master/libs/libyuv/out/build/x64-Debug/CMakeFiles/yuv_shared.dir
+C:/Users/Pradip Mandal/Desktop/Install/ok/freeswitch-custom-master/libs/libyuv/out/build/x64-Debug/CMakeFiles/yuvconvert.dir
+C:/Users/Pradip Mandal/Desktop/Install/ok/freeswitch-custom-master/libs/libyuv/out/build/x64-Debug/CMakeFiles/package.dir
+C:/Users/Pradip Mandal/Desktop/Install/ok/freeswitch-custom-master/libs/libyuv/out/build/x64-Debug/CMakeFiles/package_source.dir
+C:/Users/Pradip Mandal/Desktop/Install/ok/freeswitch-custom-master/libs/libyuv/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Pradip Mandal/Desktop/Install/ok/freeswitch-custom-master/libs/libyuv/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Pradip Mandal/Desktop/Install/ok/freeswitch-custom-master/libs/libyuv/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Users/Pradip Mandal/Desktop/Install/ok/freeswitch-custom-master/libs/libyuv/out/build/x64-Debug/CMakeFiles/install.dir
