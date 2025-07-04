@@ -1,0 +1,31 @@
+PATIENT MEDICAL REPORT
+
+Patient Name:  Zalebi Bai
+Date of Birth: 1985-07-14
+Report Date: 2025-06-18
+
+Attending Physician: Dr. Disco Daniel
+
+Chief Complaint: Persistent cough and fatigue for 3 weeks.
+
+History of Present Illness:
+Ms. Johnson, a 39-year-old female, presents with a productive cough, initially dry, now producing yellowish sputum. She reports generalized fatigue, occasional headaches, and low-grade fevers. Denies shortness of breath or chest pain. No recent travel history.
+
+Physical Examination:
+General: Appears fatigued but in no acute distress.
+Lungs: Mild expiratory wheeze heard bilaterally. No crackles.
+Throat: Mild erythema, no exudates.
+
+Lab Results:
+- CBC: WNL
+- Chest X-ray: Mild peribronchial thickening, consistent with bronchitis.
+
+Diagnosis: Acute Bronchitis
+
+Medications Prescribed:
+1. Azithromycin 500mg daily for 3 days
+2. Dextromethorphan (cough syrup) PRN for cough
+3. Rest and increased fluid intake
+
+Follow-up:
+Patient advised to follow up in 7 days or sooner if symptoms worsen.
